@@ -1,6 +1,6 @@
 # Ask me anything!
 
-## [Ask a question](../../issues/new) &nbsp;&nbsp;&nbsp; [Read questions](../../issues?q=is%3Aissue+is%3Aclosed+sort%3Aupdated-desc)
+## [Ask a question](https://github.com/zhangzhaoaaa/ama/issues/new) &nbsp;&nbsp;&nbsp; [Read questions](https://github.com/zhangzhaoaaa/ama/issues?q=is%3Aissue+is%3Aclosed+sort%3Aupdated-desc)
 
 I get a lot of questions by email. This way anyone can read the answer!
 
